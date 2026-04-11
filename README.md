@@ -14,4 +14,4 @@ Alright that's javascript, what its like to experience - Nodejs
 Social:
 - [Discord: atmnou](https://discord.gg/9PcyxMY9st)
 - [Hugging Face: Krakerberus](https://huggingface.co/Krakerberus)
-- [Roblox: atmnou](https://www.roblox.com/users/162518173/profile)
+- [Roblox: ATMnou](https://www.roblox.com/users/162518173/profile)
