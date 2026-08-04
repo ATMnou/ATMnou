@@ -15,3 +15,6 @@ Social:
 - [Discord: seamus_cowden](https://discord.gg/9PcyxMY9st)
 - [Hugging Face: Krakerberus](https://huggingface.co/Krakerberus)
 - [Roblox: ATMnou](https://www.roblox.com/users/162518173/profile)
+
+
+btw other than Lua/Javascript project is vibe coded
